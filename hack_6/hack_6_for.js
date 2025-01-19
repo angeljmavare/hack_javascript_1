@@ -8,7 +8,7 @@
  */
 let str = "fooziman";
 let result = [];
-
+result = str.split("");
 
 //export result
 module.exports = result;
